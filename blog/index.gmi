@@ -6,15 +6,15 @@
   |,   ||/    ||   ||/   || || || |'  ||   || || || || || | ||/   
 _-/    \\,/   \\,  \\,/  \\ \\ \\/    \\,  \\,/  \\,/  \\,\ \\,/  
 ```
-=> ferenbrooke.com/index.gmi Home
-=> ferenbrooke.com/short-stories/index.gmi Short Stories
-=> ferenbrooke.com/serials/index.gmi Serial Fiction
-=> ferenbrooke.com/blog/index.gmi Blog
-=> ferenbrooke.com/links.gmi Links
+=> ../index.gmi Home
+=> ../short-stories/index.gmi Short Stories
+=> ../serials/index.gmi Serial Fiction
+=> ../blog/index.gmi Blog
+=> ../links.gmi Links
 => https://ferenbrooke.com/RSS.xml RSS
 
 # Blog
 
-=> ferenbrooke.com/blog/end-of-year-24.gmi 29/12/2024 End of Year Musings '24
+=> end-of-year-24.gmi 29/12/2024 End of Year Musings '24
 
-=> ferenbrooke.com/blog/returning-to-writing.gmi 05/11/2024 Returning to Writing
+=> returning-to-writing.gmi 05/11/2024 Returning to Writing

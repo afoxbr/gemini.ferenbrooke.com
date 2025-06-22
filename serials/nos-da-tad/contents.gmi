@@ -6,26 +6,26 @@
   |,   ||/    ||   ||/   || || || |'  ||   || || || || || | ||/   
 _-/    \\,/   \\,  \\,/  \\ \\ \\/    \\,  \\,/  \\,/  \\,\ \\,/  
 ```
-=> ferenbrooke.com/index.gmi Home
-=> ferenbrooke.com/short-stories/index.gmi Short Stories
-=> ferenbrooke.com/serials/index.gmi Serial Fiction
-=> ferenbrooke.com/blog/index.gmi Blog
-=> ferenbrooke.com/links.gmi Links
+=> ../../index.gmi Home
+=> ../../short-stories/index.gmi Short Stories
+=> ../../serials/index.gmi Serial Fiction
+=> ../../blog/index.gmi Blog
+=> ../../links.gmi Links
 => https://ferenbrooke.com/RSS.xml RSS
 
 # Nos Da, Tad
 
 ## Contents
 
-=> ferenbrooke.com/serials/nos-da-tad/chapter-1.gmi
-=> ferenbrooke.com/serials/nos-da-tad/chapter-2.gmi
-=> ferenbrooke.com/serials/nos-da-tad/chapter-3.gmi
-=> ferenbrooke.com/serials/nos-da-tad/chapter-4.gmi
-=> ferenbrooke.com/serials/nos-da-tad/chapter-5.gmi
-=> ferenbrooke.com/serials/nos-da-tad/chapter-6.gmi
-=> ferenbrooke.com/serials/nos-da-tad/chapter-7.gmi
-=> ferenbrooke.com/serials/nos-da-tad/chapter-8.gmi
-=> ferenbrooke.com/serials/nos-da-tad/chapter-9.gmi
-=> ferenbrooke.com/serials/nos-da-tad/epilogue.gmi
+=> chapter-1.gmi Chapter 1
+=> chapter-2.gmi Chapter 2
+=> chapter-3.gmi Chapter 3
+=> chapter-4.gmi Chapter 4
+=> chapter-5.gmi Chapter 5
+=> chapter-6.gmi Chapter 6
+=> chapter-7.gmi Chapter 7
+=> chapter-8.gmi Chapter 8
+=> chapter-9.gmi Chapter 9
+=> epilogue.gmi Epilogue
 
-=> ferenbrooke.com/serials/nos-da-tad/warnings.gmi
+=> warnings.gmi Content warnings
