@@ -15,7 +15,9 @@ _-/    \\,/   \\,  \\,/  \\ \\ \\/    \\,  \\,/  \\,/  \\,\ \\,/
 
 # Short Stories
 
-=> over-the-tall-fence.gmi
+=> old-tom.gmi Old Tom
+
+=> over-the-tall-fence.gmi Over The Tall Fence
 
 => the-rail-house.gmi The Rail House
 
