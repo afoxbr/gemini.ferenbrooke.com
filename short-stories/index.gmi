@@ -15,6 +15,8 @@ _-/    \\,/   \\,  \\,/  \\ \\ \\/    \\,  \\,/  \\,/  \\,\ \\,/
 
 # Short Stories
 
+=> ticker.gmi Ticker
+
 => old-tom.gmi Old Tom
 
 => over-the-tall-fence.gmi Over The Tall Fence
